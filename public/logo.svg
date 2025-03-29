@@ -1,0 +1,6 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 10C0 4.47715 4.47715 0 10 0H20V10H0V10Z" fill="#F0F1F2"/>
+<rect x="30" y="10" width="20" height="10" transform="rotate(90 30 10)" fill="#F0F1F2"/>
+<rect y="30" width="20" height="10" transform="rotate(-90 0 30)" fill="#F0F1F2"/>
+<path d="M20 30H40V30C40 35.5228 35.5228 40 30 40H20V30Z" fill="#F0F1F2"/>
+</svg>
